@@ -1,8 +1,16 @@
-# React + Vite
+# 🎮Ultimate Games Store 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📚 Sobre o Projeto
 
-Currently, two official plugins are available:
+- Ultimate Games Store é um projeto de e-commerce focado na venda de jogos digitais para diversas plataformas, incluindo PS3, PS4, PS5 e PC. O objetivo é proporcionar uma experiência intuitiva e responsiva para os usuários, garantindo acessibilidade em diferentes dispositivos, como desktops, tablets e smartphones.
+Página criada especialmente para fins de estudo, reforçando o aprendizado utilizando o .map()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📌Tecnologias Utilizadas
+
+- React: Framework JavaScript para criação de interfaces de usuário.
+
+- CSS: Estilização do projeto, incluindo responsividade com media queries.
+
+- HTML: Estrutura básica das páginas.
+
+- JavaScript: Lógica e interatividade do projeto.
