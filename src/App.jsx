@@ -1,10 +1,9 @@
 import logoHeader from '../src/assets/logoHeader.png';
-import lupa from '../src/assets/lupa.png';
 
 export default function App() {
   const produtos = [
     {
-      imagem: "./src/assets/gta.png",
+      imagem: "https://i.imgur.com/Ffmb94o.png",
       titulo: "GTA Grand Theft Auto San Andreas - PS3 Mídia Digital",
       precoOriginal: "R$39,95",
       precoAtual: "R$27,95",
@@ -13,7 +12,7 @@ export default function App() {
       botaoComprar: 'Comprar' 
     },
     {
-      imagem: "./src/assets/milesmorales.png",
+      imagem: 'https://i.imgur.com/iYkKV22.png',
       titulo: "Marvel's Spider-Man: Miles Morales - PS4 Mídia Digital",
       precoOriginal: "R$97,95",
       precoAtual: "R$77,95",
@@ -22,7 +21,7 @@ export default function App() {
       botaoComprar: 'Comprar'
     },
     {
-      imagem: "./src/assets/mortal.png",
+      imagem: "https://i.imgur.com/XI5Cp2T.png",
       titulo: "Mortal Kombat XL - PS5 Mídia Digital",
       precoOriginal: "R$69,90",
       precoAtual: "R$17,95",
@@ -31,7 +30,7 @@ export default function App() {
       botaoComprar: 'Comprar'
     },
     {
-      imagem: "./src/assets/senua.png",
+      imagem: "https://i.imgur.com/z99E7bF.png",
       titulo: "Hellblade: Senua's Sacrifice - PS5",
       precoOriginal: "R$89,90",
       precoAtual: "R$37,95",
@@ -41,7 +40,7 @@ export default function App() {
       
     },
     {
-      imagem: "./src/assets/resident.png",
+      imagem: "https://i.imgur.com/hQkImSa.png",
       titulo: "Resident Evil - PS5 Mídia Digital",
       precoOriginal: "R$57,95",
       precoAtual: "R$27,95",
@@ -51,7 +50,7 @@ export default function App() {
       
     },
     {
-      imagem: "./src/assets/outlast.png",
+      imagem: "https://i.imgur.com/0Kj0RgM.png",
       titulo: "Outlast 2 - PS5 Mídia Digital (Útimas Unidades)",
       precoOriginal: "R$97,95",
       precoAtual: "R$47,95",
@@ -61,7 +60,7 @@ export default function App() {
       
     },
     {
-      imagem: "./src/assets/need.png",
+      imagem: "https://i.imgur.com/gUKJkmt.png",
       titulo: "Need for Speed - PS5 Mídia Digital",
       precoOriginal: "R$67,90",
       precoAtual: "R$27,95",
@@ -70,14 +69,14 @@ export default function App() {
       botaoComprar: 'Comprar'
       
     },{
-      imagem: "./src/assets/fc2024.png",
+      imagem: "https://i.imgur.com/myntYcz.png",
       titulo: "EA Sports FC 24 Fifa para PC - PT BR (Últimas Unidades) ",
       precoAtual: "R$359,90",
       parcelas: "12x de R$39,03",
       desconto: "Desconto de 10% no boleto",
       botaoComprar: 'Comprar'  
     },
-  ];
+  ]
 
   return (
     <main>
