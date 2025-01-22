@@ -50,7 +50,7 @@ export default function App() {
       
     },
     {
-      imagem: "https://i.imgur.com/0Kj0RgM.png",
+      imagem: "https://i.imgur.com/gFOL68I.png",
       titulo: "Outlast 2 - PS5 Mídia Digital (Útimas Unidades)",
       precoOriginal: "R$97,95",
       precoAtual: "R$47,95",
